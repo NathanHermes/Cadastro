@@ -13,34 +13,31 @@
     <string name="city_text_view">Cidade</string>
     <string name="city_edit_text">Informe sua cidade</string>
     <string name="uf_text_view">UF</string>
-    <string-array name="uf_sp">
-        <item>AC</item>
-        <item>AL</item>
-        <item>AP</item>
-        <item>AM</item>
-        <item>BA</item>
-        <item>CE</item>
-        <item>DF</item>
-        <item>ES</item>
-        <item>GO</item>
-        <item>MA</item>
-        <item>MS</item>
-        <item>MT</item>
-        <item>MG</item>
-        <item>PA</item>
-        <item>PB</item>
-        <item>PR</item>
-        <item>PE</item>
-        <item>PI</item>
-        <item>RJ</item>
-        <item>RN</item>
-        <item>RS</item>
-        <item>RO</item>
-        <item>RR</item>
-        <item>SC</item>
-        <item>SP</item>
-        <item>SE</item>
-        <item>TO</item>
+    <string-array name="estate_sp">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espirito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
     </string-array>
     <string name="clear_btn">Limpar</string>
     <string name="save_btn">Salvar</string>
